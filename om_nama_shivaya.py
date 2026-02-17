@@ -1,0 +1,1 @@
+n = print("Om nama shivaya \t ಓಂ ನಮಃ ಶಿವಾಯ "*1008)
